@@ -1,0 +1,8 @@
+
+degreesToTurn1 = 270
+degreesToTurn2 = 90
+Ed.Drive(Ed.FORWARD, Ed.SPEED_5, 5)
+Ed.Drive(Ed.FORWARD_LEFT, 4, 90)
+
+Ed.Drive(Ed.FORWARD_RIGHT, Ed.SPEED_4, 90)
+Ed.Drive(Ed.FORWARD, Ed.SPEED_5, 4)
