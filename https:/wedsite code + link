@@ -1,0 +1,140 @@
+https://squidums08.w3spaces.com/saved-from-Tryit-2024-06-10.html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>hobby project</title>
+<style>
+body {
+  background-color: AliceBlue;
+}
+pre {
+	font-size: 2.3vw
+}
+pre {
+  font-family: "Times New Roman", Times, serif;
+  }
+  
+  
+</head>
+</style>
+<body>
+
+
+<h1  align="center" style="font-size:10vw"> Magic: The Gathering hobby project</h1>
+
+<hr>
+
+
+
+<pre>    Magic the Gathering is a table top board
+game created in the 1993 by the company Wizards of the 
+coasts inc. From just 2008-2016 over 20 billion magic 
+cards were printed and as of 2023 the card game has 
+approximate 50 million players!</pre>
+<pre>  The Goal of this game to build your own 
+deck that will play against other peoples and kill 
+them as quickly as possible with creatures, magical 
+spells, and anyways you can think of, with how many 
+cards are out there any play style is possible </pre>
+
+<hr>
+
+<p align="center"> Want to learn more about the cards?<a href="https://squidums08.w3spaces.com/saved-from-Tryit-2024-05-30-u758h.html">Click here!</a>
+And if you want to learn to play read this helpful guide!<a href="https://squidums08.w3spaces.com/saved-from-Tryit-2024-05-30-ndou8.html">Click here!</a>
+</body>
+</html>
+
+
+Page Two Code - How to play
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>How to Play!</title>
+<style>
+body {
+  background-color: AliceBlue;
+}
+
+</head>
+</style>
+<body>
+
+<h1  align="center" style="font-size:10vw">How to Play?</h1>
+
+<hr>
+
+<p1 style="font-size:2.3vw" >Begin your Turn</p1>
+<pre style="font-size:2.3vw">
+Untap : this means re-set all of your cards by turning them upright signifying they are ready to be used again
+Draw : draw a card from your deck you get one per turn <pre>
+
+
+<br>
+
+<p2 style="font-size:2.3vw" >Main Phase 1</p2>
+<pre style="font-size:2.3vw">
+Land : put one land from your hand onto the battlefield
+Casting : play creatures or other spells you want :) <pre>
+
+<br>
+
+<p3 align="left" style="font-size:2.3vw">Combat Phase</p3>
+<pre style="font-size:2.3vw">
+Attack! : declare all creature you're attacking with 
+block : your opponents declare all creatures they plan to block with
+combat damage : now the attackers and blockers fight and you get to see how the combat phase plays out! <pre>
+
+<br>
+
+<p4 style="font-size:2.3vw">Main Phase 2</p4>
+<pre style="font-size:2.3vw"> 
+Land : play a land if you haven't already 
+Casting : cast creatures or spells <pre>
+
+<br>
+
+<p5 style="font-size:2.3vw">End of Turn!</p5>
+<pre style="font-size:2.3vw">
+Healing : this is when all of your creatures regain their health 
+Pass : pass on the turn to the other players in your pod
+<pre>
+
+</body>
+</html>
+
+
+Page Three Code - The cards themselves 
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Cards Themselves</title>
+<style>
+body {
+  background-color: AliceBlue;
+}
+
+</head>
+</style>
+</head>
+<body>
+
+<h1 align="center" style="font-size:10vw">The Cards Themselves</h1>
+
+<hr>
+
+<pre style="font-size:2.3vw">
+The game consists of over 27,000 unique cards not
+including the many variants of art for each different card.
+Millions of cards are printed every year with new cards
+being created and released about 3 -4 times a year! In
+the new sets they create new cards to continue adding to
+the game but also new versions of the art printed on the 
+cards. Many sets are of different games and hobbies the 
+players enjoy (warhammer 40k, lords of the rings, animes,
+street fighter, and fortnite are some common ones).<pre>
+
+</body>
+</html>
